@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunbee
 - 👀 I’m interested in creation, connection, collaboration around tech.
 - 🌱 I’m currently learning home automation with ESP8266 and IoT Stack on Pi.
-- 💞️ I’m looking to collaborate with a woman who codes on preventing child deaths in a hot car.
+- 💞️ I’m looking to collaborate with a chic who codes on preventing child deaths in a hot car.
 - 📫 How to reach me sanjay.bhatikar@gmail.com, put "Hot Car" in subject.
 
 <!---
