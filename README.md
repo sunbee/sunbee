@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sunbee
 - 👀 I’m interested in creation, connection, collaboration around tech.
-- 🌱 I’m currently learning home automation with ESP8266 and IoT Stack on Pi.
+- 🌱 I’m currently learning home automation with ESP8266-12E nodemcu, IoT Stack on Raspberry Pi and MIT App Inventor.
 - 💞️ I’m looking to collaborate with a chic who codes on preventing child deaths in a hot car.
-- 📫 How to reach me sanjay.bhatikar@gmail.com, put "Hot Car" in subject.
+- 📫 How to reach me sanjay.bhatikar@gmail.com, put your favorite beer in subject.
 
 <!---
 sunbee/sunbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
