@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sunbee 🌞 🐝 
 - 👀 I’m interested in creation, connection, collaboration around tech.
-- 🌱 I’m currently building home automation with ESP8266-12E nodemcu, IoT Stack on Raspberry Pi and MIT App Inventor.
-- 💞️ I’m looking to collaborate with a maker chic on tech that prevents infant deaths in a hot car. These deaths are totally preventable but car manufacturers won't invest in a solution because there aren't any billions to be made saving little lives. :exploding_head:
-- 📫 How to reach me sanjay.bhatikar@gmail.com, put your favorite beer in subject.  🍺
+- 🌱 My repertoire includes building apps for mobile and microprocessors.
+- - I speak Python, Kotlin, C++, Javascript and R.
+- 💞️ I’m looking to collaborate with a maker on tech that prevents infant deaths in a hot car. These deaths are totally preventable but car manufacturers won't invest in a solution because there aren't any billions to be made saving little lives. :exploding_head:
+- 📫 How to reach me sanjay.bhatikar@gmail.com.
 
 💗
 
