@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sunbee 🌞 🐝 
-- 👀 I’m interested in creation, connection, collaboration around tech.
-- 🌱 My repertoire includes building apps for mobile and microprocessors.
-- ✨ I speak Python, Kotlin, C++, Javascript and R.
-- 💞️ I’m looking to collaborate with a maker on tech that prevents infant deaths in a hot car. These deaths are totally preventable but car manufacturers won't invest in a solution because there aren't any billions to be made saving little lives. :exploding_head:
+- 👋 Hi, I’m @sunbee I love artificial neural networks. 🌞 🐝 
+- 👀 I’m interested in creation, connection, collaboration in tech.
+- ✨ I speak Python, C/C++ and R and to a lesser extent Kotlin and Javascript.
+- 💞️ I’m interested in applying tech to problems facing our communities.
 - 📫 How to reach me sanjay.bhatikar@gmail.com.
 
 💗
