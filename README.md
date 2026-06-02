@@ -1,6 +1,6 @@
 # Hi, I’m Sanjay Bhatikar 👋
 
-Co-founder of **Acumain**, building agentic AI systems aimed at reshaping how the world of financial investments operates — from streamlined workflows to decision automation.
+Co-founder of **Acumain Inc.**, building agentic AI systems aimed at reshaping how the world of financial investments operates — from streamlined workflows to decision automation.
 
 ## What I’m focused on
 - 🤖 Agentic AI systems, autonomous workflows  
